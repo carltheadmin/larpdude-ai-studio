@@ -6,9 +6,9 @@ export const LINKS = {
   drive:
     "https://drive.google.com/drive/folders/1wBtSUQP04t04iuNlMLFi20Q1jD-BLyvd",
   instagramDM: "https://www.instagram.com/larpdude.ai.creator?utm_source=ig_web_button_share_sheet&exln=ZDNlZDc0MzIxNw==",
-  telegramDM: "https://t.me/larpdude_aicreator",
+  discordDM: "https://discordapp.com/users/1572165955843395746",
   instagram: "https://www.instagram.com/larpdude.ai.creator?utm_source=ig_web_button_share_sheet&exln=ZDNlZDc0MzIxNw==",
-  telegram: "https://t.me/larpdude_aicreator",
+  discord: "https://discordapp.com/users/1572165955843395746",
   email: "mailto:larpdude.ai@gmail.com",
 };
 
