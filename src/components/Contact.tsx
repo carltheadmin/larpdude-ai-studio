@@ -39,13 +39,13 @@ export default function Contact() {
               MESSAGE ME ON INSTAGRAM
             </a>
             <a
-              href={LINKS.telegramDM}
+              href={LINKS.DiscordDM}
               target="_blank"
               rel="noreferrer"
               className="inline-flex w-full items-center justify-center gap-2.5 rounded-2xl border border-crimson/50 bg-coal px-8 py-4 font-sans text-sm font-bold tracking-wide text-white transition-all duration-300 hover:-translate-y-0.5 hover:border-led hover:bg-card hover:shadow-[0_0_24px_rgba(255,21,47,0.25)] sm:w-auto"
             >
               <Send className="h-5 w-5 text-led" strokeWidth={2.2} />
-              MESSAGE ME ON TELEGRAM
+              MESSAGE ME ON DISCORD
             </a>
           </div>
         </Reveal>
