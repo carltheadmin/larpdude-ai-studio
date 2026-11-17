@@ -46,13 +46,13 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={LINKS.telegram}
+                  href={LINKS.discord}
                   target="_blank"
                   rel="noreferrer"
                   className="group flex items-center gap-3 text-[15px] font-medium text-body transition-colors hover:text-white"
                 >
                   <Send className="h-4.5 w-4.5 text-crimson transition-transform group-hover:scale-110" />
-                  Telegram
+                  Discord
                 </a>
               </li>
               <li>
