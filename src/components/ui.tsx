@@ -5,9 +5,9 @@ export const LINKS = {
   blueprint: "https://whop.com/3d-ai-cartoon-blueprint-course",
   drive:
     "https://drive.google.com/drive/folders/1wBtSUQP04t04iuNlMLFi20Q1jD-BLyvd",
-  instagramDM: "https://ig.me/m/larpdude.ai",
+  instagramDM: "https://ig.me/m/larpdude.ai.creator",
   telegramDM: "https://t.me/larpdude_aicreator",
-  instagram: "https://www.instagram.com/larpdude.ai",
+  instagram: "https://ig.me/m/larpdude.ai.creator",
   telegram: "https://t.me/larpdude_aicreator",
   email: "mailto:larpdude.ai@gmail.com",
 };
