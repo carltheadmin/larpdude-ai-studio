@@ -1,4 +1,4 @@
-import { ArrowUp, Mail, } from "lucide-react";
+import { ArrowUp, Mail, Send } from "lucide-react";
 import { InstagramIcon, LINKS } from "./ui";
 
 export default function Footer() {
@@ -51,7 +51,7 @@ export default function Footer() {
                   rel="noreferrer"
                   className="group flex items-center gap-3 text-[15px] font-medium text-body transition-colors hover:text-white"
                 >
-                  < className="h-4.5 w-4.5 text-crimson transition-transform group-hover:scale-110" />
+                  <Send className="h-4.5 w-4.5 text-crimson transition-transform group-hover:scale-110" />
                   Discord
                 </a>
               </li>
